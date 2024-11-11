@@ -6,7 +6,8 @@ Usage:
 
 1. Download zip
 2. Decompress zip
-3.Open folder as a project
+
+3. Open folder as a project
 
 ---
 Should work on Godot 4.0 and higher
